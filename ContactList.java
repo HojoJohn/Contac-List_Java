@@ -1,6 +1,6 @@
 /**
 Course: ISTE-120
-Author: Nicholas Graca
+Author: Jonathan Lopez
 HW13
 Purpose: Create a phone book and have the ability to add, display and search for records
 */
